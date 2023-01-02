@@ -1,0 +1,38 @@
+@charset "UTF-8";
+	
+	#developer{
+		transform: scale(0.8)
+	}
+	
+	#bodyContainer {
+		height: 80%
+	}
+	
+	body {
+		height: 100vh;
+	}
+	
+	h1 {
+		color: #469846;
+		font-family: 'Gentium Book Basic', serif;
+		padding: 0;
+		margin: 0;
+	}
+	
+	#tagline {
+		color: #469846;
+		font-family: 'Gentium Book Basic', serif;
+		padding: 0;
+		margin: 0;
+	}
+	.btn {
+		background-color: #AACF42;
+	}
+	
+	.sign-in {
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 20px;
+		background-color: #AACF42;
+		border-radius: 10px;
+	}

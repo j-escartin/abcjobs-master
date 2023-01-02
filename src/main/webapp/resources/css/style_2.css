@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+	
+ 	/** Body **/	
+	body {
+		background-color: #F2F2F2;
+	}
+	
+	#regTag {
+		font-family: 'Gentium Book Basic', serif;
+		font-size: 38px;
+	}
+	
+	#thankYou {
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 28px;
+	}
+	
+	.backBut {
+		font-family: 'Gentium Book Basic', serif;
+		font-size: 20px;
+	}
+	
+	#regForm {
+		height: 70%;
+	}
+	.sign-in {
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 20px;
+		background-color: #AACF42;
+		border-radius: 10px;
+	}
+	.regLink {
+		color: #469846;
+		font-family: 'Gentium Book Basic', serif;
+	}
+	#LogoWordFooter {
+		color: #469846;
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 16px;
+	}
+	.fontText{
+		font-family: 'Gentium Book Basic', serif;
+	}
+	
+	#viewProfile{
+		position: relative;
+		bottom:70px;
+		left: 20px;
+	}
+	.viewDes {
+		position: relative;
+		bottom:60px;
+	}
+	
+	.modal-title {
+		font-weight:bold;
+		color: #469846;
+	}
+	

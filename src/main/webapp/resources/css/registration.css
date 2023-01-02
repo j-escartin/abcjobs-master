@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+	
+ 	/** Body **/	
+	body {
+		background-color: #F2F2F2;
+	}
+	
+	#regTag {
+		font-family: 'Gentium Book Basic', serif;
+		font-size: 38px;
+	}
+	
+	#thankYou {
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 28px;
+	}
+	
+	.backBut {
+		font-family: 'Gentium Book Basic', serif;
+		font-size: 20px;
+	}
+	
+	
+	.sign-in {
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 20px;
+		background-color: #AACF42;
+		border-radius: 10px;
+	}
+	.regLink {
+		color: #469846;
+		font-family: 'Gentium Book Basic', serif;
+	}
+	

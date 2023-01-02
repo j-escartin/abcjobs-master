@@ -1,0 +1,22 @@
+@charset "UTF-8";
+	#logo{
+			width:100px;
+			height:100px;
+		}
+		
+	#LogoWord {
+		color: #469846;
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 38px;
+	}
+	.nav-header {
+		font-family: 'Gentium Book Basic', serif;
+		font-weight: bold;
+		font-size: 20px;
+	}
+	
+	#joinBut {
+		background-color: #AACF42;
+		border-radius: 10px;
+	}
