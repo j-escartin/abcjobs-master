@@ -1,4 +1,4 @@
-# ABC- Jobs
+# ABC-Jobs
 
 Spring Project Community Portal
 
@@ -21,10 +21,11 @@ There will be only one administrator in the community portal. The administrator 
 
 ## Tools and Platforms
 
-- Laptop (at least 8GB RAM and i5 processor)
-- Java Integrated Development (IntelliJ)
-- Microsoft Excel for csv file conversion
-- Diagramming tool (draw.io)
-
+- Eclipse IDE
+- MySQL Workbench
+- Apache Tomcat
+- Browser
+- Word
+- Powerpoint
 
 ## Result
