@@ -2,14 +2,6 @@
 
 Spring Project Community Portal
 
-## Project Overview
-
-We have been approached by ABC Jobs Pte Ltd to develop a community portal for software developer for the purpose of creating more connections among the developers. It will allow a lot of features and functionality and the project will be based on LinkedIn Community Portal Website.
-
-In the community portal, the Software Developer should be able to register in the portal, show a thank you page, and send email registration confirmation email. They will be able to find their fellow developers through search functionality after the login and view profile scenario. They could also change their password by providing password retrieval functionality to the community portal. Lastly, the Software Developer will be able to update their profile.
-
-There will be only one administrator in the community portal. The administrator will manage all the user’s data and most especially send bulk email for marketing and inviting other Software Developers to join the community.
-
 ## Experience from the Project
 
 - Able to design, create and implement Servlet and JSP application.
@@ -24,8 +16,17 @@ There will be only one administrator in the community portal. The administrator 
 - Eclipse IDE
 - MySQL Workbench
 - Apache Tomcat
-- Browser
-- Word
-- Powerpoint
 
 ## Result
+
+### Homepage
+
+![Picture1](https://github.com/j-escartin/abcjobs-master/assets/109270420/bea55812-0416-49f9-ba4e-2795df948297)
+
+### Landing Page
+
+![Picture2](https://github.com/j-escartin/abcjobs-master/assets/109270420/01283f29-2a2a-4bf3-ae84-ee0e0b198d93)
+
+### Register Page
+
+![Picture3](https://github.com/j-escartin/abcjobs-master/assets/109270420/8477487b-fcb4-4ff8-b2c8-d7d8edfa5758)
